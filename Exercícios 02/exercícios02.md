@@ -30,4 +30,6 @@ Agora que você já tem uma base sólida sobre a estrutura HTML, vamos adicionar
 Certifique-se de que cada elemento esteja corretamente formatado e colocado conforme o design do Figma.
 
 5) Incorporando imagens com tags HTML
-Chegou a hora de dar um toque visual à sua página! Escolha uma imagem que represente você ou seu trabalho e adicione-a à sua página de portfólio usando a tag <img>. Lembre-se de incluir a propriedade src com o caminho para a imagem e alt com uma descrição adequada da imagem. Isso não apenas melhora a acessibilidade do seu site, mas também ajuda os motores de busca a entenderem o conteúdo da imagem.
+Chegou a hora de dar um toque visual à sua página!
+[x] - Escolha uma imagem que represente você ou seu trabalho e adicione-a à sua página de portfólio usando a tag <img>.
+Lembre-se de incluir a propriedade src com o caminho para a imagem e alt com uma descrição adequada da imagem. Isso não apenas melhora a acessibilidade do seu site, mas também ajuda os motores de busca a entenderem o conteúdo da imagem.
