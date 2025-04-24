@@ -15,7 +15,12 @@ Agora que você entende a importância das tags semânticas no HTML, é hora de 
 Lembre-se de que cada elemento deve ser colocado de forma lógica e estruturada para criar um site acessível e bem organizado.
 
 3) Entendendo e aplicando as tags meta
-Explore o uso das tags meta no cabeçalho do seu HTML. Altere a tag lang para "pt-br", ajuste o charset para "UTF-8", adicione a tag meta para compatibilidade com o Edge e outra para configuração do viewport. Por fim, mude o título da sua página para algo relacionado ao seu projeto, por exemplo, "Portfólio de [Seu Nome]". Entenda como cada uma dessas mudanças afeta a funcionalidade e a acessibilidade do seu site.
+Explore o uso das tags meta no cabeçalho do seu HTML.
+[x] - Altere a tag lang para "pt-br"
+[x] - ajuste o charset para "UTF-8"
+[x] - adicione a tag meta para compatibilidade com o Edge e outra para configuração do viewport.
+[x] - Por fim, mude o título da sua página para algo relacionado ao seu projeto, por exemplo, "Portfólio de [Seu Nome]".
+Entenda como cada uma dessas mudanças afeta a funcionalidade e a acessibilidade do seu site.
 
 4) Inserindo e formatando elementos no HTML
 Agora que você já tem uma base sólida sobre a estrutura HTML, vamos adicionar e formatar elementos na sua página de portfólio. Siga o layout do Figma e comece adicionando um título (<h1>) com um destaque (<strong>) em uma parte dele. Em seguida, insira um parágrafo (<p>) com uma breve introdução sobre você ou sua empresa. Finalmente, adicione links (<a>) para suas redes sociais ou portfólios online, como Instagram e GitHub. Certifique-se de que cada elemento esteja corretamente formatado e colocado conforme o design do Figma.
