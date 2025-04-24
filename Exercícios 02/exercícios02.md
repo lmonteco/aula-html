@@ -23,7 +23,11 @@ Explore o uso das tags meta no cabeçalho do seu HTML.
 Entenda como cada uma dessas mudanças afeta a funcionalidade e a acessibilidade do seu site.
 
 4) Inserindo e formatando elementos no HTML
-Agora que você já tem uma base sólida sobre a estrutura HTML, vamos adicionar e formatar elementos na sua página de portfólio. Siga o layout do Figma e comece adicionando um título (<h1>) com um destaque (<strong>) em uma parte dele. Em seguida, insira um parágrafo (<p>) com uma breve introdução sobre você ou sua empresa. Finalmente, adicione links (<a>) para suas redes sociais ou portfólios online, como Instagram e GitHub. Certifique-se de que cada elemento esteja corretamente formatado e colocado conforme o design do Figma.
+Agora que você já tem uma base sólida sobre a estrutura HTML, vamos adicionar e formatar elementos na sua página de portfólio.
+[x] - Siga o layout do Figma e comece adicionando um título (<h1>) com um destaque (<strong>) em uma parte dele.
+[x] - Em seguida, insira um parágrafo (<p>) com uma breve introdução sobre você ou sua empresa.
+[x] - Finalmente, adicione links (<a>) para suas redes sociais ou portfólios online, como Instagram e GitHub.
+Certifique-se de que cada elemento esteja corretamente formatado e colocado conforme o design do Figma.
 
 5) Incorporando imagens com tags HTML
 Chegou a hora de dar um toque visual à sua página! Escolha uma imagem que represente você ou seu trabalho e adicione-a à sua página de portfólio usando a tag <img>. Lembre-se de incluir a propriedade src com o caminho para a imagem e alt com uma descrição adequada da imagem. Isso não apenas melhora a acessibilidade do seu site, mas também ajuda os motores de busca a entenderem o conteúdo da imagem.
