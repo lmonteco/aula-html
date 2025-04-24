@@ -8,7 +8,11 @@ Você acaba de receber um layout de uma página de portfólio da sua designer. O
 Sinta-se livre para personalizar o texto e a imagem para adaptá-los ao seu portfólio pessoal.
 
 2) Estruturando a página com tags semânticas
-Agora que você entende a importância das tags semânticas no HTML, é hora de aplicar esse conhecimento. Utilize as tags header, main, e footer para estruturar sua página de portfólio. No header, insira um menu ou um logotipo. No main, adicione os elementos do portfólio como título, parágrafo, botões e imagem. Por fim, no footer, coloque informações como contato ou direitos autorais. Lembre-se de que cada elemento deve ser colocado de forma lógica e estruturada para criar um site acessível e bem organizado.
+Agora que você entende a importância das tags semânticas no HTML, é hora de aplicar esse conhecimento. Utilize as tags header, main, e footer para estruturar sua página de portfólio:
+[x] - No header, insira um menu ou um logotipo.
+[x] - No main, adicione os elementos do portfólio como título, parágrafo, botões e imagem.
+[x] - Por fim, no footer, coloque informações como contato ou direitos autorais.
+Lembre-se de que cada elemento deve ser colocado de forma lógica e estruturada para criar um site acessível e bem organizado.
 
 3) Entendendo e aplicando as tags meta
 Explore o uso das tags meta no cabeçalho do seu HTML. Altere a tag lang para "pt-br", ajuste o charset para "UTF-8", adicione a tag meta para compatibilidade com o Edge e outra para configuração do viewport. Por fim, mude o título da sua página para algo relacionado ao seu projeto, por exemplo, "Portfólio de [Seu Nome]". Entenda como cada uma dessas mudanças afeta a funcionalidade e a acessibilidade do seu site.
