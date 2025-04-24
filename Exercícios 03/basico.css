@@ -1,0 +1,21 @@
+body {
+    background-color: indigo;
+    color: white;
+}
+
+h1 {
+    color: rgb(188, 175, 65);
+}
+
+p {
+    color: rgb(240, 222, 59);
+}
+
+strong {
+    color: rgb(203, 183, 0);
+}
+
+a{
+    background-color: white;
+    color: blue;
+}
